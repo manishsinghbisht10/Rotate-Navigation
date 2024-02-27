@@ -53,7 +53,7 @@ body {
 }
 
 .container.show-nav {
-  transform: rotate(-70deg);
+  transform: rotate(-70degy);
 }
 
 .circle button:focus {
